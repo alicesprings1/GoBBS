@@ -1,0 +1,2 @@
+# GoBBS
+Go BBS project 
